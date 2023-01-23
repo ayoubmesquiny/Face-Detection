@@ -16,7 +16,7 @@ To install opencv
 #### Run:
 
 1. clone this repo using
-> git clone https://github.com/Sonkaryasshu/Face_Detection.git
+> git clone https://github.com/ayoubmesquiny/Face-Detection.git
 
 > cd Face_Detection
 
